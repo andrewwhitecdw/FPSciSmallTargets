@@ -6,7 +6,7 @@ This repository contains a [FPSci](https://github.com/NVLabs/FPSci) user study e
 
 1. Double click `setup.bat`, which will download the required version of FPSci, and copy the experiment configuration files into the right location.
 2. Double click `RunFPSci.bat` or double click on `FirstPersonScience.exe` inside the `FPSci` directory (created by the download and extract in `setup.bat`).
-3. Create a new user by entering a name and clicking the `Create User` button. If you're different screens, it's useful to put the screen you're using in your user name (`name_24` for example).
+3. Create a new user by entering a name and clicking the `Create User` button. If you're using different screens, it's useful to put the screen you're using in your user name (`name_24` for example).
 4. (optional) Use the in-game menu to adjust mouse sensitivity to your preferred value.
 5. After the experiment, there will be a results file for each user name in the results directory that you can analyze.
 6. (optional) If something goes wrong and you need to start over, you can delete the `FPSci` directory, and return to step 1 above.
